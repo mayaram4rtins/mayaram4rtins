@@ -1,8 +1,11 @@
 ### Github Review
 
-![mayaram4rtins's Status](https://github-readme-stats.vercel.app/api?username=mayaram4rtins&show_icons=true&theme=gruvbox)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaram4rtins&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaram4rtinsi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaram4rtins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ### Contato
 <div>
 <a href = "mailto:mmayara.nmartins@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
